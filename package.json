@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "description": "test app for interview",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "mongoose": "*",
+    "express":"4.x",
+    "body-parser":"*",
+    "method-override":"*"
+  }
+}

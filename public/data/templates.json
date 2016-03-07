@@ -1,0 +1,4 @@
+{
+  "goodForm": "<form action='#' ng-submit='userActions()'><input ng-model='number' placeholder='number' type='number'><input type='submit' value='hit'>{{rootDirectory}}{{content.data}}{{content.title}} {{content.description}}</form>",
+  "warningMessage" : "<div>{{count}}</div>"
+}
